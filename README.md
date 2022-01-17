@@ -1,14 +1,16 @@
 # WC Project Tutorials
-**Here is the list of all projects tutorials.**
+**Here is the list of all project tutorials.**
 
-Projects order is based on recommendation
+Projects order is based on recommendation.
+we will update this list as we get more tutorials.
+so watch/star/bookmark this repository.
 
 ## Types of projects:
 * [HTML CSS Projects](#html-css-projects)
 * [React JS Projects](#react-js-projects)
 * [Others](#others)
 
-### Html CSS Projects
+### HTML CSS Projects
 1. [Shaif's Cuisine](https://github.com/ShaifArfan/shaif-s-cuisine)
 📋 A 5 pages website for a local restaurant.
 1. [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)
