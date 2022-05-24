@@ -30,6 +30,8 @@ so watch/star/bookmark this repository.
    📋 A website one page photography website with 🌓 dark mode.
 1. [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)
    📋 A portfolio website for a web designer.
+1. [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio)
+   📋 A simple responsive portfolio website with `dark mode` feature.
 
 ### Gatsby JS Projects
 
