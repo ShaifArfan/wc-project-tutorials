@@ -19,6 +19,8 @@ so watch/star/bookmark this repository.
    📋 A 5 pages website for a local restaurant.
 1. [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)
    📋 A portfolio website for a web designer.
+1. [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)
+📋 A Simple resume website using HTML CSS only.
 1. [One Page Portfolio Project](https://github.com/WebCifar/one-page-website-html-css-project-for-practice)
    📋 A one page portfolio website for practice.
 
