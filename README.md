@@ -11,6 +11,7 @@ so watch/star/bookmark this repository.
 - [HTML CSS Projects](#html-css-projects)
 - [React JS Projects](#react-js-projects)
   - [Gatsby JS Projects](#gatsby-js-projects)
+  - MERN STACK Projects(#mern-stack-projects)
 - [Others](#others)
 
 ### HTML CSS Projects
@@ -39,6 +40,10 @@ so watch/star/bookmark this repository.
 
 1. [TechHub-Blog](https://github.com/ShaifArfan/techHub-blog)
    📋 A Complete blog website using `GatsbyJS` & `Sanity.io`.
+   
+### MERN STACK Projects
+1. [Task Management App](https://github.com/ShaifArfan/task-management-tool-tut/tree/youtube-tutorial)
+   📋 A Simple Todo App. Where user can create new account and manage their tasks.
 
 ### Others
 
