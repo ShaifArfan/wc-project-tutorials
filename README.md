@@ -11,7 +11,7 @@ so watch/star/bookmark this repository.
 - [HTML CSS Projects](#html-css-projects)
 - [React JS Projects](#react-js-projects)
   - [Gatsby JS Projects](#gatsby-js-projects)
-  - MERN STACK Projects(#mern-stack-projects)
+  - [MERN STACK Projects](#mern-stack-projects)
 - [Others](#others)
 
 ### HTML CSS Projects
