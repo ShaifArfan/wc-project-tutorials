@@ -11,6 +11,7 @@ so watch/star/bookmark this repository.
 - [HTML CSS Projects](#html-css-projects)
 - [React JS Projects](#react-js-projects)
   - [Gatsby JS Projects](#gatsby-js-projects)
+  - [Next JS Projects](#next-js-projects)
   - [MERN STACK Projects](#mern-stack-projects)
 - [Others](#others)
 
@@ -21,7 +22,7 @@ so watch/star/bookmark this repository.
 1. [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)
    📋 A portfolio website for a web designer.
 1. [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)
-📋 A Simple resume website using HTML CSS only.
+   📋 A Simple resume website using HTML CSS only.
 1. [One Page Portfolio Project](https://github.com/WebCifar/one-page-website-html-css-project-for-practice)
    📋 A one page portfolio website for practice.
 
@@ -40,8 +41,14 @@ so watch/star/bookmark this repository.
 
 1. [TechHub-Blog](https://github.com/ShaifArfan/techHub-blog)
    📋 A Complete blog website using `GatsbyJS` & `Sanity.io`.
-   
+
+### Next Js Projects
+
+1. [Meal-khuj](https://github.com/ShaifArfan/meal-khuj)
+   📋 Recipe App using `NextJS` & `React Query`.
+
 ### MERN STACK Projects
+
 1. [Task Management App](https://github.com/ShaifArfan/task-management-tool-tut/tree/youtube-tutorial)
    📋 A Simple Todo App. Where user can create new account and manage their tasks.
 
