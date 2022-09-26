@@ -46,6 +46,8 @@ so watch/star/bookmark this repository.
 
 1. [Meal-khuj](https://github.com/ShaifArfan/meal-khuj)
    📋 Recipe App using `NextJS` & `React Query`.
+1. [Next + MDX Blog](https://github.com/ShaifArfan/next-mdx-simple-blog)
+   📋 A simple blog website using `Next.js` & `MDX`
 
 ### MERN STACK Projects
 
