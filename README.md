@@ -12,7 +12,7 @@ so watch/star/bookmark this repository.
 - [React JS Projects](#react-js-projects)
   - [Gatsby JS Projects](#gatsby-js-projects)
   - [Next JS Projects](#next-js-projects)
-  - [MERN STACK Projects](#mern-stack-projects)
+- [MERN Stack Projects](#mern-stack-projects)
 - [Others](#others)
 
 ### HTML CSS Projects
@@ -26,12 +26,12 @@ so watch/star/bookmark this repository.
 
 ### React JS Projects
 
-| Project Name                                                                      | Difficulty | Description                                                 |
-| --------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
-| [Todo App](https://github.com/ShaifArfan/react-todo-app)                          | `Medium`   | A complete todo app with `react`, `redux`, `framer motion`. |
-| [Artistic](https://github.com/ShaifArfan/artistic)                                | `Easy`     | A website one page photography website with 🌓 dark mode.   |
-| [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)                 | `Easy`     | A portfolio website for a web designer.                     |
-| [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio) | `Easy`     | A portfolio website for a web designer.                     |
+| Project Name                                                                      | Difficulty | Description                                                                         |
+| --------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
+| [Todo App](https://github.com/ShaifArfan/react-todo-app)                          | `Medium`   | A complete todo app with `react`, `redux`, `framer motion`.                         |
+| [Artistic](https://github.com/ShaifArfan/artistic)                                | `Easy`     | A website one page photography website with 🌓 dark mode using `styled-components`. |
+| [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)                 | `Easy`     | A portfolio website for a web designer.                                             |
+| [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio) | `Easy`     | portfolio website with `dark mode` feature using `tailwind`                         |
 
 ### Gatsby JS Projects
 
@@ -46,7 +46,7 @@ so watch/star/bookmark this repository.
 | [Meal-khuj](https://github.com/ShaifArfan/meal-khuj)                  | `Medium`   | Recipe App using `NextJS` & `React Query`     |
 | [Next + MDX Blog](https://github.com/ShaifArfan/next-mdx-simple-blog) | `Medium`   | A simple blog website using `Next.js` & `MDX` |
 
-### MERN STACK Projects
+### MERN Stack Projects
 
 | Project Name                                                                                        | Difficulty | Description                                                                  |
 | --------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
