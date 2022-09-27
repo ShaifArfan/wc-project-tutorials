@@ -17,46 +17,44 @@ so watch/star/bookmark this repository.
 
 ### HTML CSS Projects
 
-1. [Shaif's Cuisine](https://github.com/ShaifArfan/shaif-s-cuisine)
-   📋 A 5 pages website for a local restaurant.
-1. [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)
-   📋 A portfolio website for a web designer.
-1. [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)
-   📋 A Simple resume website using HTML CSS only.
-1. [One Page Portfolio Project](https://github.com/WebCifar/one-page-website-html-css-project-for-practice)
-   📋 A one page portfolio website for practice.
+| Project Name                                                                                     | Difficulty | Description                                  |
+| ------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------- |
+| [Shaif's Cuisine](https://github.com/ShaifArfan/shaif-s-cuisine)                                 | `Medium`   | A 5 pages website for a local restaurant.    |
+| [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)                                  | `Easy`     | A portfolio website for a web designer.      |
+| [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)                                 | `Easy`     | A Simple resume website using HTML CSS only. |
+| [One Page Portfolio](https://github.com/WebCifar/one-page-website-html-css-project-for-practice) | `Easy`     | A one page portfolio website for practice.   |
 
 ### React JS Projects
 
-1. [A Complete Todo App](https://github.com/ShaifArfan/react-todo-app)
-   📋 A complete todo app with react, redux, framer motion.
-1. [Artistic](https://github.com/ShaifArfan/artistic)
-   📋 A website one page photography website with 🌓 dark mode.
-1. [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)
-   📋 A portfolio website for a web designer.
-1. [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio)
-   📋 A simple responsive portfolio website with `dark mode` feature.
+| Project Name                                                                      | Difficulty | Description                                                 |
+| --------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
+| [Todo App](https://github.com/ShaifArfan/react-todo-app)                          | `Medium`   | A complete todo app with `react`, `redux`, `framer motion`. |
+| [Artistic](https://github.com/ShaifArfan/artistic)                                | `Easy`     | A website one page photography website with 🌓 dark mode.   |
+| [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)                 | `Easy`     | A portfolio website for a web designer.                     |
+| [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio) | `Easy`     | A portfolio website for a web designer.                     |
 
 ### Gatsby JS Projects
 
-1. [TechHub-Blog](https://github.com/ShaifArfan/techHub-blog)
-   📋 A Complete blog website using `GatsbyJS` & `Sanity.io`.
+| Project Name                                               | Difficulty | Description                                            |
+| ---------------------------------------------------------- | ---------- | ------------------------------------------------------ |
+| [TechHub-Blog](https://github.com/ShaifArfan/techHub-blog) | `Medium`   | A Complete blog website using `GatsbyJS` & `Sanity.io` |
 
 ### Next Js Projects
 
-1. [Meal-khuj](https://github.com/ShaifArfan/meal-khuj)
-   📋 Recipe App using `NextJS` & `React Query`.
-1. [Next + MDX Blog](https://github.com/ShaifArfan/next-mdx-simple-blog)
-   📋 A simple blog website using `Next.js` & `MDX`
+| Project Name                                                          | Difficulty | Description                                   |
+| --------------------------------------------------------------------- | ---------- | --------------------------------------------- |
+| [Meal-khuj](https://github.com/ShaifArfan/meal-khuj)                  | `Medium`   | Recipe App using `NextJS` & `React Query`     |
+| [Next + MDX Blog](https://github.com/ShaifArfan/next-mdx-simple-blog) | `Medium`   | A simple blog website using `Next.js` & `MDX` |
 
 ### MERN STACK Projects
 
-1. [Task Management App](https://github.com/ShaifArfan/task-management-tool-tut/tree/youtube-tutorial)
-   📋 A Simple Todo App. Where user can create new account and manage their tasks.
+| Project Name                                                                                        | Difficulty | Description                                                                  |
+| --------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
+| [Task Management App](https://github.com/ShaifArfan/task-management-tool-tut/tree/youtube-tutorial) | `Easy`     | A Simple Todo App. Where user can create new account and manage their tasks. |
 
 ### Others
 
-1. [#30days30Submits](https://github.com/ShaifArfan/30days30submits)
-   📋 Create 30 small to medium projects in 30 days.
-1. [Frontend Mentor Challenges](https://github.com/WebCifar/frontend-mentor-challenge)
-   📋 A collection of challenges from frontend mentors.
+| Project Name                                                                        | Difficulty | Description                                       |
+| ----------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| [#30days30Submits](https://github.com/ShaifArfan/30days30submits)                   | `Easy`     | Create 30 small to medium projects in 30 days.    |
+| [Frontend Mentor Challenges](https://github.com/WebCifar/frontend-mentor-challenge) | `Easy`     | A collection of challenges from frontend mentors. |
