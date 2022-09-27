@@ -17,7 +17,7 @@ so watch/star/bookmark this repository.
 
 ### HTML CSS Projects
 
-| Project Name                                                                                     | Difficulty | Created at | Description                                  |
+| Project Name                                                                                     | Difficulty | Created_at | Description                                  |
 | ------------------------------------------------------------------------------------------------ | ---------- | ---------- | -------------------------------------------- |
 | [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)                                 | `Easy`     | Jun 2022   | A Simple resume website using HTML CSS only. |
 | [Shaif's Cuisine](https://github.com/ShaifArfan/shaif-s-cuisine)                                 | `Medium`   | Oct 2021   | A 5 pages website for a local restaurant.    |
@@ -26,29 +26,29 @@ so watch/star/bookmark this repository.
 
 ### React JS Projects
 
-| Project Name                                                                      | Difficulty | Created at | Description                                                                           |
-| --------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------------------- |
-| [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio) | `Easy`     | May 2022   | portfolio website with `dark mode` feature using `tailwind css`                       |
-| [Todo App](https://github.com/ShaifArfan/react-todo-app)                          | `Medium`   | Jan 2022   | A complete todo app with `react`, `redux`, `framer motion`.                           |
-| [Artistic](https://github.com/ShaifArfan/artistic)                                | `Easy`     | Dec 2021   | A website one page photography website with 🌓 `dark mode` using `styled-components`. |
-| [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)                 | `Easy`     | Jun 2021   | A complete portfolio website for a web designer.                                      |
+| Project Name                                                                      | Difficulty | Created_at | Description                                                                 |
+| --------------------------------------------------------------------------------- | ---------- | ---------- | --------------------------------------------------------------------------- |
+| [Rect Tailwind Portfolio](https://github.com/ShaifArfan/react-tailwind-portfolio) | `Easy`     | May 2022   | portfolio website with `dark mode` feature using `tailwind css`             |
+| [Todo App](https://github.com/ShaifArfan/react-todo-app)                          | `Medium`   | Jan 2022   | A complete todo app with `react`, `redux`, `framer motion`.                 |
+| [Artistic](https://github.com/ShaifArfan/artistic)                                | `Easy`     | Dec 2021   | one page photography website with 🌓 `dark mode` using `styled-components`. |
+| [Ayan's Portfolio](https://github.com/ShaifArfan/AYANs-portfolio)                 | `Easy`     | Jun 2021   | A complete portfolio website for a web designer.                            |
 
 ### Gatsby JS Projects
 
-| Project Name                                               | Difficulty | Created at | Description                                            |
+| Project Name                                               | Difficulty | Created_at | Description                                            |
 | ---------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------ |
 | [TechHub-Blog](https://github.com/ShaifArfan/techHub-blog) | `Medium`   | Apr 2022   | A Complete blog website using `GatsbyJS` & `Sanity.io` |
 
 ### Next Js Projects
 
-| Project Name                                                          | Difficulty | Created at | Description                                               |
+| Project Name                                                          | Difficulty | Created_at | Description                                               |
 | --------------------------------------------------------------------- | ---------- | ---------- | --------------------------------------------------------- |
 | [Next + MDX Blog](https://github.com/ShaifArfan/next-mdx-simple-blog) | `Medium`   | Sept 2022  | A simple blog website using `Next.js` & `next-mdx-remote` |
 | [Meal-khuj](https://github.com/ShaifArfan/meal-khuj)                  | `Medium`   | Sept 2022  | Recipe App using `NextJS` & `React Query`                 |
 
 ### MERN Stack Projects
 
-| Project Name                                                                                        | Difficulty | Created at | Description                                                                   |
+| Project Name                                                                                        | Difficulty | Created_at | Description                                                                   |
 | --------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----------------------------------------------------------------------------- |
 | [Task Management App](https://github.com/ShaifArfan/task-management-tool-tut/tree/youtube-tutorial) | `Easy`     | Aug 2022   | A Simple Todo App. Where users can create new account and manage their tasks. |
 
