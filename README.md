@@ -17,12 +17,13 @@ so watch/star/bookmark this repository.
 
 ### HTML CSS Projects
 
-| Project Name                                                                                     | Difficulty | Created_at | Description                                  |
-| ------------------------------------------------------------------------------------------------ | ---------- | ---------- | -------------------------------------------- |
-| [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)                                 | `Easy`     | Jun 2022   | A Simple resume website using HTML CSS only. |
-| [Shaif's Cuisine](https://github.com/ShaifArfan/shaif-s-cuisine)                                 | `Medium`   | Oct 2021   | A 5 pages website for a local restaurant.    |
-| [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)                                  | `Easy`     | Mar 2021   | A portfolio website for a web designer.      |
-| [One Page Portfolio](https://github.com/WebCifar/one-page-website-html-css-project-for-practice) | `Easy`     | Mar 2020   | A one page portfolio website for practice.   |
+| Project Name                                                                                     | Difficulty | Created_at | Description                                    |
+| ------------------------------------------------------------------------------------------------ | ---------- | ---------- | ---------------------------------------------- |
+| [HTML CSS Resume](https://github.com/ShaifArfan/html-css-resume)                                 | `Easy`     | Jun 2022   | A Simple resume website using HTML CSS only.   |
+| [Podcast Landing Page](https://github.com/ShaifArfan/tailwind-podcast-landing-page)              | `Easy`     | Nov 2022   | HTML & `Tailwind CSS` landing Page for Podcast |
+| [Shaif's Cuisine](https://github.com/ShaifArfan/shaif-s-cuisine)                                 | `Medium`   | Oct 2021   | A 5 pages website for a local restaurant.      |
+| [Amy's Portfolio](https://github.com/ShaifArfan/AMYs-Portfolio)                                  | `Easy`     | Mar 2021   | A portfolio website for a web designer.        |
+| [One Page Portfolio](https://github.com/WebCifar/one-page-website-html-css-project-for-practice) | `Easy`     | Mar 2020   | A one page portfolio website for practice.     |
 
 ### React JS Projects
 
